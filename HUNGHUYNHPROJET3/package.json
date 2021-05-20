@@ -1,0 +1,13 @@
+{
+  "name": "hunghuynhprojet3",
+  "version": "1.0.0",
+  "description": "projet3hunghuynh",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:public/css/styles.css --style expanded",
+    "prefix": "postcss ./public/css/styles.css --use autoprefixer -d ./public/css/prefixed/" 
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": "last 4 versions"
+}
