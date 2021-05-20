@@ -886,8 +886,9 @@ body{
 }
 
 .link-commander{
+    text-decoration: none;
     border-radius:30px;
-
+    cursor: pointer;
 }
 /*.commander{
     border: 1px solid yellowgreen;
